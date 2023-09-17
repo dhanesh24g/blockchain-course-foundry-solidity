@@ -1,2 +1,2 @@
-# blockchain-course-foundry-solidity
-Learning &amp; building Blockchain smart contracts with Solidity
+# blockchain-course-with-solidity
+Learning &amp; building Blockchain smart contracts with Solidity & Foundry

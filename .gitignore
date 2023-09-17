@@ -14,3 +14,6 @@ docs/
 .env
 
 /broadcast
+
+# System Files
+.DS_Store
