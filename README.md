@@ -6,4 +6,4 @@
 2. foundry-nft-f23
 3. foundry-simple-storage-f23
 
-These beginner projects contain use Chainlink Oracles, Foundry testing framework & even the NFTs being sold on the OpenSea for testnets. 
+These beginner projects use the Chainlink Oracles, Foundry testing framework & even the NFTs being sold on the OpenSea for testnets. 
